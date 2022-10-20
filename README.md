@@ -1,6 +1,15 @@
 # uts_crudapps_053
 
-A new Flutter project.
+# UTS-PEMMOB-053-AppsCRUD-PengirimanBarang
+
+# Nama: Norman Jayaperlaga.
+# NIM: 20051204053.
+# Kelas: TI2020A.
+
+# Output Aplikasi
+![WhatsApp Image 2022-10-20 at 18 59 47](https://user-images.githubusercontent.com/116265627/196943117-eba910bb-43b2-4e54-bbd6-7bee71810fb7.jpeg)
+
+![WhatsApp Image 2022-10-20 at 18 59 46](https://user-images.githubusercontent.com/116265627/196943148-c36b6831-6aa2-46e2-8e01-c496ed83a87b.jpeg)
 
 ## Getting Started
 
